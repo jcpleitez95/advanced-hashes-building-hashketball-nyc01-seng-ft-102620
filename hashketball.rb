@@ -96,4 +96,6 @@ def game_hash
                            :slam_dunks => 12}]
   }
 }
+:home
+:away
 end
